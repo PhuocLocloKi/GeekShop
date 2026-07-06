@@ -1,0 +1,351 @@
+[
+  {
+    "id": 1,
+    "name": "Penguin 31-in-1 Multi-Boot USB (128GB)",
+    "brand": "TECH STORE ON",
+    "price": 920097,
+    "category_id": 1,
+    "category": "OS & Recovery",
+    "image_url": "/images/products/media__1783218404396.png",
+    "stock": 25,
+    "rating_avg": 4.5,
+    "description": "Ultimate bootable USB with 31 operating systems pre-loaded. Includes Linux distros, Windows recovery tools, and diagnostic utilities. USB 3.2 Gen1 for fast boot speeds. Perfect for IT professionals and system administrators.",
+    "specs": {
+      "Capacity": "128GB",
+      "Interface": "USB 3.2 Gen1",
+      "OS Count": "31 Operating Systems",
+      "Includes": "Linux, Windows PE, Recovery Tools",
+      "Read Speed": "Up to 150MB/s",
+      "Dimensions": "65 x 20 x 10mm",
+      "Weight": "15g"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Xtssui 64GB Bootable USB Drive 3.2",
+    "brand": "Xtssui",
+    "price": 590000,
+    "category_id": 1,
+    "category": "OS & Recovery",
+    "image_url": "/images/products/media__1783218421448.png",
+    "stock": 40,
+    "rating_avg": 4.2,
+    "description": "High-speed bootable USB drive with pre-installed recovery tools and OS installers. USB 3.2 interface ensures rapid boot times and file transfers.",
+    "specs": {
+      "Capacity": "64GB",
+      "Interface": "USB 3.2",
+      "Read Speed": "Up to 130MB/s",
+      "Write Speed": "Up to 40MB/s",
+      "OS Support": "Windows, Linux",
+      "Dimensions": "58 x 18 x 9mm"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Xtssui 32GB Bootable Windows USB 3.2",
+    "brand": "Xtssui",
+    "price": 420000,
+    "category_id": 1,
+    "category": "OS & Recovery",
+    "image_url": "/images/products/media__1783218434188.png",
+    "stock": 55,
+    "rating_avg": 4.0,
+    "description": "Compact bootable USB drive with Windows installation media. Plug-and-play setup for quick OS installation and system recovery.",
+    "specs": {
+      "Capacity": "32GB",
+      "Interface": "USB 3.2",
+      "Read Speed": "Up to 120MB/s",
+      "OS": "Windows 10/11",
+      "Plug & Play": "Yes",
+      "Dimensions": "55 x 18 x 8mm"
+    }
+  },
+  {
+    "id": 4,
+    "name": "VIMIN 10G PCI-E Network Card (X540-T2)",
+    "brand": "VIMIN",
+    "price": 1417091,
+    "category_id": 2,
+    "category": "Networking",
+    "image_url": "/images/products/media__1783218536521.png",
+    "stock": 15,
+    "rating_avg": 4.7,
+    "description": "Dual-port 10 Gigabit Ethernet PCIe network adapter based on Intel X540-T2 chipset. Ideal for NAS, servers, and high-performance networking environments.",
+    "specs": {
+      "Chipset": "Intel X540-T2",
+      "Ports": "2x RJ45 10GbE",
+      "Interface": "PCIe x8",
+      "Speed": "10Gbps per port",
+      "Supported OS": "Windows, Linux, VMware",
+      "Profile": "Full Height + Low Profile Bracket"
+    }
+  },
+  {
+    "id": 5,
+    "name": "BrosTrend 5Gbps PCIe Network Card",
+    "brand": "BrosTrend",
+    "price": 890000,
+    "category_id": 2,
+    "category": "Networking",
+    "image_url": "/images/products/media__1783218606322.png",
+    "stock": 30,
+    "rating_avg": 4.3,
+    "description": "High-speed 5Gbps PCIe network card for desktop computers. Perfect upgrade for faster wired internet connectivity and network transfers.",
+    "specs": {
+      "Speed": "5Gbps",
+      "Interface": "PCIe x4",
+      "Port": "1x RJ45",
+      "Chipset": "Realtek RTL8126",
+      "Cable Support": "Cat5e/Cat6/Cat6a",
+      "OS": "Windows 10/11, Linux"
+    }
+  },
+  {
+    "id": 6,
+    "name": "UGREEN Cat 8 Ethernet Cable 6FT",
+    "brand": "UGREEN",
+    "price": 183809,
+    "category_id": 3,
+    "category": "Cables & Accessories",
+    "image_url": "/images/products/media__1783218578780.png",
+    "stock": 100,
+    "rating_avg": 4.6,
+    "description": "Premium Cat 8 Ethernet cable supporting speeds up to 40Gbps and 2000MHz bandwidth. Gold-plated connectors and double-shielded for maximum performance.",
+    "specs": {
+      "Category": "Cat 8",
+      "Length": "6 feet (1.8m)",
+      "Max Speed": "40Gbps",
+      "Bandwidth": "2000MHz",
+      "Connector": "RJ45 Gold-Plated",
+      "Shielding": "S/FTP Double Shielded"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Arduino® UNO™ Q 4GB [ABX00173]",
+    "brand": "Arduino",
+    "price": 1551464,
+    "category_id": 4,
+    "category": "Development Boards",
+    "image_url": "/images/products/media__1783218691259.jpg",
+    "stock": 20,
+    "rating_avg": 4.8,
+    "description": "The official Arduino UNO Q with 4GB memory. Features enhanced processing power for complex IoT projects, robotics, and embedded systems development.",
+    "specs": {
+      "Processor": "ATmega328P",
+      "Memory": "4GB Flash",
+      "Digital I/O": "14 pins (6 PWM)",
+      "Analog Inputs": "6 pins",
+      "Clock Speed": "16 MHz",
+      "USB": "Type-C",
+      "Voltage": "5V / 3.3V"
+    }
+  },
+  {
+    "id": 8,
+    "name": "LinksTek X520 DA1 SFP+ Fiber Card",
+    "brand": "LinksTek",
+    "price": 1051577,
+    "category_id": 2,
+    "category": "Networking",
+    "image_url": "/images/products/media__1783218642797.png",
+    "stock": 18,
+    "rating_avg": 4.4,
+    "description": "10Gb SFP+ fiber network card based on Intel 82599EN chipset. Single-port design for high-speed fiber optic networking in data centers and enterprise environments.",
+    "specs": {
+      "Chipset": "Intel 82599EN",
+      "Port": "1x SFP+ 10GbE",
+      "Interface": "PCIe x8",
+      "Speed": "10Gbps",
+      "Fiber Type": "Multi-mode / Single-mode",
+      "OS": "Windows, Linux, FreeBSD, VMware"
+    }
+  },
+  {
+    "id": 9,
+    "name": "ULANSeN 10Gb Open SFP+ PCIe Card",
+    "brand": "ULANSeN",
+    "price": 893801,
+    "category_id": 2,
+    "category": "Networking",
+    "image_url": "/images/products/media__1783218664435.png",
+    "stock": 22,
+    "rating_avg": 4.1,
+    "description": "Open SFP+ 10 Gigabit PCIe network adapter. Compatible with a wide range of SFP+ transceivers for flexible fiber and DAC connectivity options.",
+    "specs": {
+      "Speed": "10Gbps",
+      "Interface": "PCIe x8",
+      "Port": "1x Open SFP+",
+      "Transceiver": "Compatible with standard SFP+",
+      "OS": "Windows, Linux, VMware ESXi",
+      "Profile": "Full Height & Low Profile"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Arduino GIGA Display Shield",
+    "brand": "Arduino",
+    "price": 1672426,
+    "category_id": 4,
+    "category": "Development Boards",
+    "image_url": "/images/products/media__1783218677712.png",
+    "stock": 12,
+    "rating_avg": 4.6,
+    "description": "Official Arduino GIGA Display Shield featuring a high-resolution touchscreen display. Perfect companion for the Arduino GIGA R1 WiFi board for GUI-based IoT projects.",
+    "specs": {
+      "Display": "3.97\" MIPI DSI",
+      "Resolution": "480x800 pixels",
+      "Touch": "Capacitive Touchscreen",
+      "Compatibility": "Arduino GIGA R1 WiFi",
+      "Camera": "Arducam connector",
+      "Audio": "3.5mm jack + microphone",
+      "IMU": "6-axis BMI270"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Hosyond 5 Pcs 0.91\" I2C OLED Module",
+    "brand": "Hosyond",
+    "price": 367881,
+    "category_id": 5,
+    "category": "Displays & Modules",
+    "image_url": "/images/products/media__1783218709146.png",
+    "stock": 45,
+    "rating_avg": 4.3,
+    "description": "Pack of 5 compact 0.91-inch OLED display modules with I2C interface. SSD1306 driver, perfect for Arduino and ESP32 projects requiring small status displays.",
+    "specs": {
+      "Quantity": "5 Pieces",
+      "Size": "0.91 inch",
+      "Resolution": "128x32 pixels",
+      "Driver": "SSD1306",
+      "Interface": "I2C (SDA/SCL)",
+      "Voltage": "3.3V - 5V",
+      "Color": "White"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Hosyond 3pcs I2C 1602 LCD Module",
+    "brand": "Hosyond",
+    "price": 341585,
+    "category_id": 5,
+    "category": "Displays & Modules",
+    "image_url": "/images/products/media__1783218753535.jpg",
+    "stock": 35,
+    "rating_avg": 4.0,
+    "description": "Set of 3 classic 1602 LCD modules with I2C backpack. 16x2 character display with blue backlight, simplified wiring through I2C interface.",
+    "specs": {
+      "Quantity": "3 Pieces",
+      "Display": "16x2 Characters",
+      "Backlight": "Blue with White Text",
+      "Interface": "I2C (PCF8574T)",
+      "Voltage": "5V",
+      "Contrast": "Adjustable via potentiometer",
+      "Dimensions": "80 x 35 x 11mm"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Lonely Binary TinkerBlock Sensor Kit",
+    "brand": "Lonely Binary",
+    "price": 1446017,
+    "category_id": 4,
+    "category": "Development Boards",
+    "image_url": "/images/products/media__1783218771671.jpg",
+    "stock": 10,
+    "rating_avg": 4.9,
+    "description": "Comprehensive sensor and module kit with snap-together TinkerBlock design. Includes temperature, humidity, motion, light sensors and more. No soldering required.",
+    "specs": {
+      "Modules": "20+ Sensor Blocks",
+      "Connection": "Magnetic Snap-Together",
+      "Sensors": "Temp, Humidity, Motion, Light, Sound",
+      "Compatibility": "Arduino, Raspberry Pi, ESP32",
+      "Soldering": "Not Required",
+      "Tutorial": "Online Course Included"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Lonely Binary ESP32-S3 PinPulse Kit",
+    "brand": "Lonely Binary",
+    "price": 657137,
+    "category_id": 4,
+    "category": "Development Boards",
+    "image_url": "/images/products/media__1783218788195.jpg",
+    "stock": 28,
+    "rating_avg": 4.5,
+    "description": "ESP32-S3 development kit with PinPulse expansion board. Features WiFi 6, Bluetooth 5, and a rich set of GPIO pins for IoT prototyping.",
+    "specs": {
+      "MCU": "ESP32-S3 Dual Core",
+      "WiFi": "802.11 b/g/n",
+      "Bluetooth": "BLE 5.0",
+      "Flash": "16MB",
+      "PSRAM": "8MB",
+      "GPIO": "36 pins",
+      "USB": "Type-C (Native USB)"
+    }
+  },
+  {
+    "id": 15,
+    "name": "HiLetgo NEO-7M GPS Satellite Module",
+    "brand": "HiLetgo",
+    "price": 299511,
+    "category_id": 6,
+    "category": "GPS & Navigation",
+    "image_url": "/images/products/media__1783218844659.png",
+    "stock": 50,
+    "rating_avg": 4.2,
+    "description": "u-blox NEO-7M GPS module with ceramic antenna. High-sensitivity satellite receiver for navigation, tracking, and timing applications. UART interface.",
+    "specs": {
+      "Chipset": "u-blox NEO-7M",
+      "Channels": "56 channels",
+      "Frequency": "GPS L1 (1575.42MHz)",
+      "Accuracy": "2.5m CEP",
+      "Interface": "UART (TTL)",
+      "Antenna": "Ceramic Active",
+      "Voltage": "3.3V - 5V"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Walfront NEO-7M GPS SMA Module",
+    "brand": "Walfront",
+    "price": 801765,
+    "category_id": 6,
+    "category": "GPS & Navigation",
+    "image_url": "/images/products/media__1783218882882.png",
+    "stock": 16,
+    "rating_avg": 4.4,
+    "description": "Professional-grade NEO-7M GPS module with SMA connector for external antenna support. Enhanced signal reception for outdoor and vehicle tracking applications.",
+    "specs": {
+      "Chipset": "u-blox NEO-7M",
+      "Connector": "SMA for External Antenna",
+      "Channels": "56 channels",
+      "Update Rate": "Up to 10Hz",
+      "Accuracy": "2.5m CEP",
+      "Interface": "UART",
+      "Backup Battery": "Rechargeable"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Stemedu USB GPS GLONASS Dongle",
+    "brand": "Stemedu",
+    "price": 350000,
+    "category_id": 6,
+    "category": "GPS & Navigation",
+    "image_url": "/images/products/media__1783218909702.png",
+    "stock": 38,
+    "rating_avg": 4.1,
+    "description": "Plug-and-play USB GPS/GLONASS receiver dongle. Dual satellite system support for improved accuracy. Compatible with Windows, Linux, and Raspberry Pi.",
+    "specs": {
+      "Systems": "GPS + GLONASS",
+      "Interface": "USB 2.0",
+      "Chipset": "u-blox UBX-G7020",
+      "Accuracy": "2.5m CEP",
+      "Channels": "56",
+      "OS Support": "Windows, Linux, Raspberry Pi",
+      "Driver": "Plug & Play (CDC)"
+    }
+  }
+]

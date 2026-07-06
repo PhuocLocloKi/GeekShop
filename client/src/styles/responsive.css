@@ -1,0 +1,187 @@
+/* ═══════════════════════════════════════════════════════════════
+   GeekShop — Responsive Breakpoints
+   Mobile: 480px | Tablet: 768px | Laptop: 1024px | Desktop: 1440px
+   ═══════════════════════════════════════════════════════════════ */
+
+/* ── Max 1440px — Large Desktop ── */
+@media (max-width: 1440px) {
+  :root {
+    --container-max: 1200px;
+  }
+}
+
+/* ── Max 1024px — Laptop / Small Desktop ── */
+@media (max-width: 1024px) {
+  :root {
+    --container-max: 960px;
+    --navbar-height: 64px;
+  }
+
+  h1 { font-size: var(--text-4xl); }
+  h2 { font-size: var(--text-3xl); }
+  h3 { font-size: var(--text-2xl); }
+
+  .grid-4 {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .hide-laptop {
+    display: none !important;
+  }
+}
+
+/* ── Max 768px — Tablet ── */
+@media (max-width: 768px) {
+  :root {
+    --container-max: 100%;
+    --navbar-height: 60px;
+  }
+
+  h1 { font-size: var(--text-3xl); }
+  h2 { font-size: var(--text-2xl); }
+  h3 { font-size: var(--text-xl); }
+
+  .container,
+  .container-wide {
+    padding: 0 var(--space-md);
+  }
+
+  .section {
+    padding: var(--space-3xl) 0;
+  }
+
+  .grid-2 {
+    grid-template-columns: 1fr;
+  }
+
+  .grid-3 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .grid-4 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .hide-tablet {
+    display: none !important;
+  }
+
+  .show-tablet {
+    display: block !important;
+  }
+
+  /* Responsive table */
+  .responsive-table {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .responsive-table table {
+    min-width: 600px;
+  }
+}
+
+/* ── Max 480px — Mobile ── */
+@media (max-width: 480px) {
+  :root {
+    --navbar-height: 56px;
+  }
+
+  h1 { font-size: var(--text-2xl); }
+  h2 { font-size: var(--text-xl); }
+  h3 { font-size: var(--text-lg); }
+
+  .container,
+  .container-wide {
+    padding: 0 var(--space-sm);
+  }
+
+  .section {
+    padding: var(--space-2xl) 0;
+  }
+
+  .grid-3,
+  .grid-4 {
+    grid-template-columns: 1fr;
+  }
+
+  .cyber-btn {
+    padding: 10px 20px;
+    font-size: var(--text-xs);
+  }
+
+  .cyber-btn-lg {
+    padding: 12px 24px;
+    font-size: var(--text-sm);
+  }
+
+  .hide-mobile {
+    display: none !important;
+  }
+
+  .show-mobile {
+    display: block !important;
+  }
+
+  /* Stack form groups */
+  .form-row {
+    flex-direction: column;
+  }
+}
+
+/* ── Touch Device Adjustments ── */
+@media (hover: none) {
+  .glass-card:hover {
+    transform: none;
+    box-shadow: none;
+  }
+
+  .cyber-btn:hover {
+    transform: none;
+  }
+
+  .cyber-btn:hover::before {
+    left: -100%;
+  }
+}
+
+/* ── Reduced Motion ── */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+
+  .typewriter-text {
+    width: 100%;
+    border-right: none;
+    animation: none;
+  }
+
+  .glitch-text {
+    animation: none;
+  }
+
+  .glitch-text::before,
+  .glitch-text::after {
+    display: none;
+  }
+}
+
+/* ── Print ── */
+@media print {
+  .crt-overlay,
+  .noise-overlay,
+  .custom-cursor {
+    display: none !important;
+  }
+
+  body {
+    background: white;
+    color: black;
+  }
+}
